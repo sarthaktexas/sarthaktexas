@@ -1,16 +1,30 @@
-### Hi there 👋
+# Howdy! 👋
 
-<!--
-**sarthaktexas/sarthaktexas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sarthak Mohanty**, a rising high school junior and a fullstack developer and UI/UX designer.
 
-Here are some ideas to get you started:
+🌎 https://sarthakmohanty.me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📨 [sarthak@sarthakmohanty.me](mailto:sarthak@sarthakmohanty.me)
+
+💼 https://linkedin.com/in/sarthaktexas
+
+## Projects
+- [My Website](https://github.com/sarthaktexas/sarthaktexas.github.io)
+- [Resource Bank](https://github.com/sarthakmohantyinc/Opes)
+- [Quizlet/Kahoot Bot](https://github.com/sarthaktexas/)
+- [Science Bowl Timer and Scorekeeper](https://github.com/sarthaktexas/ScienceBowlScoreTimer)
+- [Salamandarian](https://github.com/sarthaktexas/Salamandarian)
+
+## Open Source Contributions
+
+- [Standard-Structure/Standard-Structure](https://github.com/Standard-Structure/Standard-Structure) 
+- [renesansz/discord-greeter-bot](https://github.com/renesansz/discord-greeter-bot)
+- [UndercoverGoose/quizlet](https://github.com/UndercoverGoose/quizlet)
+
+## Some other things
+
+- 🔭 I’m currently working on [Resource Bank](https://rb.sarthakmohanty.me)
+- 🌱 I’m currently learning Swift right now.
+- 👯 I’m not looking to collaborate right now. But if you want to collaborate with me, hit me up!
+- 😄 Pronouns: He, Him, His
+- ⚡ Fun fact: I have absolutely no clue what I'm doing, just faking it until I make it
