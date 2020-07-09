@@ -20,6 +20,7 @@ I'm **Sarthak Mohanty**, a rising high school junior and a fullstack developer a
 - [Standard-Structure/Standard-Structure](https://github.com/Standard-Structure/Standard-Structure) 
 - [renesansz/discord-greeter-bot](https://github.com/renesansz/discord-greeter-bot)
 - [UndercoverGoose/quizlet](https://github.com/UndercoverGoose/quizlet)
+- [npm/npm-expansions](https://github.com/npm/npm-expansions)
 
 ## Some other things
 
