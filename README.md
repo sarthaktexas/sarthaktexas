@@ -1,6 +1,6 @@
 # Howdy! 👋
 
-I'm **Sarthak Mohanty**, a rising high school junior and a developer and designer. Besides programming I enjoy 📷 photography, 🚵 riding my bike, and hanging out with friends.
+I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer and designer. Besides programming I enjoy 📷 photography, 🚵 riding my bike, and hanging out with friends.
 
 🌎 https://sarthakmohanty.me
 
