@@ -26,6 +26,6 @@ I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer 
 
 - 🔭 I’m currently working on [Resource Bank](https://rb.sarthakmohanty.me)
 - 🌱 I’m currently learning Swift right now.
-- 👯 I’m not looking to collaborate right now. But if you want to collaborate with me, hit me up!
+- 👯 I would love to collaborate with you!
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I have absolutely no clue what I'm doing, just faking it until I make it
