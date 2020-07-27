@@ -1,0 +1,23 @@
+- name: HTML
+  logo: html5
+  url: https://github.com/sarthaktexas?tab=repositories&q=&type=&language=html
+  color: F1E05A
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/sarthaktexas/ScienceBowlScoreTimer
+- name: JavaScript
+  logo: javascript
+  url: https://github.com/sarthaktexas?tab=repositories&q=&type=&language=javascript
+  color: F1E05A
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/sarthaktexas/website
+    - https://github.com/sarthakmohantyinc/Opes
+    - https://github.com/sarthaktexas/salamandarian
+- name: Python
+  logo: python
+  url: https://github.com/sarthaktexas?tab=repositories&q=&type=&language=python
+  logoColor: FFFFFF
+  color: 3776AB
+  projects:
+    - url: https://github.com/sarthaktexas/kahootbot
