@@ -31,6 +31,13 @@ I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer 
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I have absolutely no clue what I'm doing, just faking it until I make it
 
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+|-|-|
+| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=F1E05A&logo=html5&logoColor=FFFFFF)](https://github.com/sarthaktexas?tab=repositories&q=&type=&language=html) | [![ScienceBowlScoreTimer](https://img.shields.io/static/v1?label=&message=ScienceBowlScoreTimer&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/sarthaktexas/ScienceBowlScoreTimer) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://github.com/sarthaktexas?tab=repositories&q=&type=&language=javascript) | [![website](https://img.shields.io/static/v1?label=&message=website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/sarthaktexas/website) [![Opes](https://img.shields.io/static/v1?label=&message=Opes&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/sarthakmohantyinc/Opes) [![salamandarian](https://img.shields.io/static/v1?label=&message=salamandarian&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/sarthaktexas/salamandarian) |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)](https://github.com/sarthaktexas?tab=repositories&q=&type=&language=python) | [![kahootbot](https://img.shields.io/static/v1?label=&message=kahootbot&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/sarthaktexas/kahootbot) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
@@ -59,10 +66,3 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/sushiparrot.gif" width="30" height="30"/>
 </div>
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-|-|-|
-| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=F1E05A&logo=html5&logoColor=FFFFFF)](https://github.com/sarthaktexas?tab=repositories&q=&type=&language=html) | [![ScienceBowlScoreTimer](https://img.shields.io/static/v1?label=&message=ScienceBowlScoreTimer&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/sarthaktexas/ScienceBowlScoreTimer) |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://github.com/sarthaktexas?tab=repositories&q=&type=&language=javascript) | [![website](https://img.shields.io/static/v1?label=&message=website&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/sarthaktexas/website) [![Opes](https://img.shields.io/static/v1?label=&message=Opes&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/sarthakmohantyinc/Opes) [![salamandarian](https://img.shields.io/static/v1?label=&message=salamandarian&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/sarthaktexas/salamandarian) |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=python&logoColor=FFFFFF)](https://github.com/sarthaktexas?tab=repositories&q=&type=&language=python) | [![kahootbot](https://img.shields.io/static/v1?label=&message=kahootbot&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/sarthaktexas/kahootbot) |
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
