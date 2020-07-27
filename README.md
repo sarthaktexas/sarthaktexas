@@ -8,6 +8,8 @@ I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer 
 
 💼 https://linkedin.com/in/sarthaktexas
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=sarthaktexas)]
+
 ## Projects
 - [My Website](https://github.com/sarthaktexas/sarthaktexas.github.io)
 - [Resource Bank](https://github.com/sarthakmohantyinc/Opes)
