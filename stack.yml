@@ -1,7 +1,7 @@
 - name: HTML
   logo: html5
   url: https://github.com/sarthaktexas?tab=repositories&q=&type=&language=html
-  color: F1E05A
+  color: E34F26
   logoColor: FFFFFF
   projects:
     - https://github.com/sarthaktexas/ScienceBowlScoreTimer
