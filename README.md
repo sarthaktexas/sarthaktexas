@@ -1,12 +1,11 @@
 # Howdy! 🤠 I'm Sarthak Mohanty
-
-![https://github.com/sarthaktexas/sarthaktexas/blob/master/gh-header-image.png?raw=true]()
+<img src="https://github.com/sarthaktexas/sarthaktexas/blob/master/gh-header-image.png?raw=true" alt="github banner">
 
 I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer and designer. Besides programming I enjoy 📷 photography, 🚵 riding my bike, and hanging out with friends.
 
-🌎 https://sarthakmohanty.me
+🌎 https://srtk.me (formerly sarthakmohanty.me)
 
-📨 [sarthak@sarthakmohanty.me](mailto:sarthak@sarthakmohanty.me)
+📨 [me@sarthakmohanty.me](mailto:me@sarthakmohanty.me)
 
 💼 https://linkedin.com/in/sarthaktexas
 
@@ -29,9 +28,9 @@ I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer 
 
 - 🔭 I’m currently working on [Resource Bank](https://rb.sarthakmohanty.me)
 - 🌱 I’m currently learning Swift right now.
-- 👯 I would love to collaborate with you!
+- 👯 I would love to collaborate on [Resource Bank](https://rb.sarthakmohanty.me)!
 - 😄 Pronouns: He, Him, His
-- ⚡ Fun fact: I have absolutely no clue what I'm doing, just faking it until I make it
+- ⚡ Fun fact: I have absolutely no clue what I'm doing, just faking it until I make it. Pretty interested in that doctor stuff.
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
