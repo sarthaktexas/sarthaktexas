@@ -1,4 +1,6 @@
-# Howdy! 👋
+# Howdy! 👋 I'm Sarthak Mohanty
+
+![https://github.com/sarthaktexas/sarthaktexas/blob/master/Sarthak%20Mohanty%20-%20Github%20Profile%20README.png?raw=true]()
 
 I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer and designer. Besides programming I enjoy 📷 photography, 🚵 riding my bike, and hanging out with friends.
 
