@@ -1,8 +1,5 @@
-<link href="style.css" rel="stylesheet"></link>
-
 # Howdy! 🤠 I'm Sarthak Mohanty
 <img src="https://github.com/sarthaktexas/sarthaktexas/blob/master/gh-header-image.png?raw=true" id="light-banner" alt="github banner">
-<img src="https://github.com/sarthaktexas/sarthaktexas/blob/master/gh-header-image-dark.png?raw=true" id="dark-banner" alt="github banner">
 
 I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer and designer. Besides programming I enjoy 📷 photography, 🚵 riding my bike, and hanging out with friends.
 
