@@ -11,7 +11,7 @@ I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sarthaktexas&count_private=true&show_icons=true)
 ## Projects
-- [My Website](https://github.com/sarthaktexas/sarthaktexas.github.io)
+- [My Website (contains locator and task list code) ](https://github.com/sarthaktexas/sarthaktexas.github.io)
 - [Resource Bank](https://github.com/sarthakmohantyinc/Opes)
 - [Quizlet/Kahoot Bot](https://github.com/sarthaktexas/)
 - [Science Bowl Timer and Scorekeeper](https://github.com/sarthaktexas/ScienceBowlScoreTimer)
