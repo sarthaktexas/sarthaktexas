@@ -13,6 +13,8 @@
   projects:
     - https://github.com/sarthaktexas/website
     - https://github.com/sarthakmohantyinc/Opes
+    - https://github.com/sarthaktexas/zoom-dashboard
+    - https://github.com/sarthakmohantyinc/Labori
     - https://github.com/sarthaktexas/salamandarian
 - name: Node.js
   logo: node.js
@@ -22,6 +24,8 @@
   projects:
     - https://github.com/sarthaktexas/website
     - https://github.com/sarthakmohantyinc/Opes
+    - https://github.com/sarthaktexas/zoom-dashboard
+    - https://github.com/sarthakmohantyinc/Labori
 - name: Python
   logo: python
   url: https://github.com/sarthaktexas?tab=repositories&q=&type=&language=python
