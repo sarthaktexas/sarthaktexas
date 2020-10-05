@@ -1,5 +1,7 @@
 # Howdy! 🤠 I'm Sarthak Mohanty
-<img src="https://github.com/sarthaktexas/sarthaktexas/blob/master/gh-header-image.png?raw=true" id="light-banner" alt="github banner">
+![](https://github.com/sarthaktexas/sarthaktexas/blob/master/gh-header-image.png)
+
+![](https://komarev.com/ghpvc/?username=sarthaktexas&color=blueviolet)
 
 I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer and designer. Besides programming I enjoy 📷 photography, 🚵 riding my bike, and hanging out with friends.
 
