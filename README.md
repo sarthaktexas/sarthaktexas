@@ -3,9 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=sarthaktexas&color=blueviolet)
 
-I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer and designer. Besides programming I enjoy 📷 photography, 🚵 riding my bike, and hanging out with friends.
+I'm **Sarthak Mohanty**, a high school junior and a full-stack developer and designer. Besides programming, I enjoy 📷 photography, 🖊 designing, 🚵 riding my bike, and hanging out with friends.
 
-🌎 https://srtk.me (formerly sarthakmohanty.me)
+🌎 https://srtk.me
 
 📨 [me@sarthakmohanty.me](mailto:me@sarthakmohanty.me)
 
@@ -18,6 +18,11 @@ I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer 
 - [Quizlet/Kahoot Bot](https://github.com/sarthaktexas/)
 - [Science Bowl Timer and Scorekeeper](https://github.com/sarthaktexas/ScienceBowlScoreTimer)
 - [Salamandarian](https://github.com/sarthaktexas/Salamandarian)
+- [discord-user-bot](https://github.com/sarthaktexas/discord-user-bot)
+- [HackClub/Rudolph](https://github.com/HackClub/Rudolph)
+- [send-message-serverless](https://github.com/sarthaktexas/send-message-serverless)
+- [home-automation-serverless](https://github.com/sarthaktexas/home-automation-serverless)
+- [kick-talking-user-discord-bot](https://github.com/sarthaktexas/kick-talking-user-discord-bot)
 
 ## Open Source Contributions
 
@@ -25,12 +30,13 @@ I'm **Sarthak Mohanty**, a rising high school junior and a full-stack developer 
 - [renesansz/discord-greeter-bot](https://github.com/renesansz/discord-greeter-bot)
 - [UndercoverGoose/quizlet](https://github.com/UndercoverGoose/quizlet)
 - [npm/npm-expansions](https://github.com/npm/npm-expansions)
+- [HackClub/Rudolph](https://github.com/HackClub/Rudolph)
 
 ## Some other things
 
-- 🔭 I’m currently working on [Resource Bank](https://rb.sarthakmohanty.me)
-- 🌱 I’m currently learning Swift right now.
-- 👯 I would love to collaborate on [Resource Bank](https://rb.sarthakmohanty.me)!
+- 🔭 I’m currently working on [12 Days of Christmas](https://hackclub.com)
+- 🌱 I’m currently learning time-management right now.
+- 👯 I'm not currently looking to collaborate, but if you'd like to, hmu!
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I have absolutely no clue what I'm doing, just faking it until I make it. Pretty interested in that doctor stuff.
 
@@ -52,8 +58,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/shortparrot.gif" width="30" height="30"/>
