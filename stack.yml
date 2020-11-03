@@ -23,8 +23,8 @@
 - name: Swift
   logo: swift
   url: https://github.com/sarthaktexas?tab=repositories&q=&type=&language=swift
-  logoColor: FA7343
-  color: FFFFFF
+  logoColor: FFFFFF
+  color: FA7343
   projects:
     - https://github.com/HackClub/Rudolph
 - name: Python
