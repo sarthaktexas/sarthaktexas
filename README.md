@@ -12,25 +12,19 @@ I'm **Sarthak Mohanty**, a high school junior and a full-stack developer and des
 💼 https://linkedin.com/in/sarthaktexas
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sarthaktexas&count_private=true&show_icons=true)
-## Projects
-- [My Website (contains locator and task list code) ](https://github.com/sarthaktexas/sarthaktexas.github.io)
+## Featured Projects
+- [My Website](https://github.com/sarthaktexas/website-v2)
 - [Resource Bank](https://github.com/sarthakmohantyinc/Opes)
-- [Quizlet/Kahoot Bot](https://github.com/sarthaktexas/)
-- [Science Bowl Timer and Scorekeeper](https://github.com/sarthaktexas/ScienceBowlScoreTimer)
-- [Salamandarian](https://github.com/sarthaktexas/Salamandarian)
-- [discord-user-bot](https://github.com/sarthaktexas/discord-user-bot)
-- [HackClub/Rudolph](https://github.com/HackClub/Rudolph)
-- [send-message-serverless](https://github.com/sarthaktexas/send-message-serverless)
-- [home-automation-serverless](https://github.com/sarthaktexas/home-automation-serverless)
-- [kick-talking-user-discord-bot](https://github.com/sarthaktexas/kick-talking-user-discord-bot)
+- [Link Shortener](https://github.com/sarthaktexas/srtk.me-v2)
+- [HackClub/12DoC](https://github.com/HackClub/12DoC)
 
 ## Open Source Contributions
-
-- [Standard-Structure/Standard-Structure](https://github.com/Standard-Structure/Standard-Structure) 
+- [Standard-Structure/Standard-Structure](https://github.com/Standard-Structure/Standard-Structure)
 - [renesansz/discord-greeter-bot](https://github.com/renesansz/discord-greeter-bot)
 - [UndercoverGoose/quizlet](https://github.com/UndercoverGoose/quizlet)
 - [npm/npm-expansions](https://github.com/npm/npm-expansions)
 - [HackClub/Rudolph](https://github.com/HackClub/Rudolph)
+- [HackClub/12DoC](https://github.com/HackClub/12DoC)
 
 ## Some other things
 
