@@ -16,11 +16,25 @@
     - https://github.com/sarthaktexas/zoom-dashboard
     - https://github.com/sarthakmohantyinc/Labori
     - https://github.com/sarthaktexas/salamandarian
+    - https://github.com/sarthaktexas/ocean-architecture
     - https://github.com/sarthaktexas/discord-user-bot
     - https://github.com/sarthaktexas/send-message-serverless
     - https://github.com/sarthaktexas/home-automation-serverless
     - https://github.com/sarthaktexas/kick-talking-user-discord-bot
+    - https://github.com/sarthaktexas/kosmos-discord-music-bot
     - https://github.com/sarthaktexas/srtk.me
+    - https://github.com/sarthaktexas/adventofcode2020
+    - https://github.com/sarthaktexas/secret-santa-pairing
+- name: Next.js
+  logo: next-dot-js
+  url: https://github.com/sarthaktexas?tab=repositories&q=&type=&language=javascript
+  color: 000000
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/sarthaktexas/website-v2
+    - https://github.com/sarthaktexas/srtk.me-v2
+    - https://github.com/sarthaktexas/notes
+    - https://github.com/sarthaktexas/swirlbrand
 - name: Swift
   logo: swift
   url: https://github.com/sarthaktexas?tab=repositories&q=&type=&language=swift
