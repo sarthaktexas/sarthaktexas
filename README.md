@@ -16,7 +16,6 @@ I'm **Sarthak Mohanty**, a high school junior and a full-stack developer and des
 - [My Website](https://github.com/sarthaktexas/website-v2)
 - [Resource Bank](https://github.com/sarthakmohantyinc/Opes)
 - [Link Shortener](https://github.com/sarthaktexas/srtk.me-v2)
-- [HackClub/12DoC](https://github.com/HackClub/12DoC)
 
 ## Open Source Contributions
 - [Standard-Structure/Standard-Structure](https://github.com/Standard-Structure/Standard-Structure)
@@ -24,11 +23,10 @@ I'm **Sarthak Mohanty**, a high school junior and a full-stack developer and des
 - [UndercoverGoose/quizlet](https://github.com/UndercoverGoose/quizlet)
 - [npm/npm-expansions](https://github.com/npm/npm-expansions)
 - [HackClub/Rudolph](https://github.com/HackClub/Rudolph)
-- [HackClub/12DoC](https://github.com/HackClub/12DoC)
 
 ## Some other things
 
-- 🔭 I’m currently working on [12 Days of Christmas](https://hackclub.com)
+- 🔭 I’m currently working on [Westworld by Alamo City Hacks](https://alamocityhacks.com)
 - 🌱 I’m currently learning time-management right now.
 - 👯 I'm not currently looking to collaborate, but if you'd like to, hmu!
 - 😄 Pronouns: He, Him, His
