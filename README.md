@@ -26,7 +26,7 @@ I'm **Sarthak Mohanty**, a high school junior and a full-stack developer and des
 
 ## Some other things
 
-- 🔭 I’m currently working on [Westworld by Alamo City Hacks](https://alamocityhacks.com)
+- 🔭 I’m currently working on [Hyper by Alamo City Hacks](https://alamocityhacks.com)
 - 🌱 I’m currently learning time-management right now.
 - 👯 I'm not currently looking to collaborate, but if you'd like to, hmu!
 - 😄 Pronouns: He, Him, His
