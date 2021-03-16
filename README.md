@@ -3,19 +3,24 @@
 
 ![](https://komarev.com/ghpvc/?username=sarthaktexas&color=blueviolet)
 
-I'm **Sarthak Mohanty**, a high school junior and a full-stack developer and designer. Besides programming, I enjoy 📷 photography, 🖊 designing, 🚵 riding my bike, and hanging out with friends.
+Sarthak is an ambitious high school senior from the rural Texas Hill Country. He's a full stack developer and designer focusing on interactive web experiences and natural design. He attends Brandeis High School and loves hanging with his friends. He's passionate about education equality among other things. Sarthak also likes to go adventuring in the woods on a daily basis, often getting him very sick the next day because he has a severe mold and mountain cedar allergy. Sarthak also loves biking around his area. *(want to compete with him? send him and email and add him on Watch Activity!)*
+
+Currently, he is organizing tech events all around the South Texas area. He works at [Mintere](https://mintere.com) right now as a web developer. He's also hosting A Trivia Show on [Clubhouse](https://joinclubhouse.com) right now.
 
 🌎 https://srtk.me
 
-📨 [me@sarthakmohanty.me](mailto:me@sarthakmohanty.me)
+📨 [hello@sarthakmohanty.me](mailto:hello@sarthakmohanty.me)
 
 💼 https://linkedin.com/in/sarthaktexas
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sarthaktexas&count_private=true&show_icons=true)
-## Featured Projects
-- [My Website](https://github.com/sarthaktexas/website-v2)
-- [Resource Bank](https://github.com/sarthakmohantyinc/Opes)
-- [Link Shortener](https://github.com/sarthaktexas/srtk.me-v2)
+## Events
+- [Hyper, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
+- [Hack Day, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
+- [Youth Code Jam](https://youthcodejam.org) Student Volunteer
+- [Carbon, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
+- [AngelHacks 2.0](https://angelhacks.org) Co-organizer
+- [Dunes, by HackIndiana](https://hackindiana.io) Lead Organizer
 
 ## Open Source Contributions
 - [Standard-Structure/Standard-Structure](https://github.com/Standard-Structure/Standard-Structure)
@@ -23,12 +28,16 @@ I'm **Sarthak Mohanty**, a high school junior and a full-stack developer and des
 - [UndercoverGoose/quizlet](https://github.com/UndercoverGoose/quizlet)
 - [npm/npm-expansions](https://github.com/npm/npm-expansions)
 - [HackClub/Rudolph](https://github.com/HackClub/Rudolph)
+- [HackClub/Vote](https://github.com/HackClub/Vote)
+- [AngelHacks/site-2020](https://github.com/HackClub/Rudolph)
+- [AlamoCityHacks/hyper](https://github.com/AlamoCityHacks/hyper)
+- [Indiana-Hacks/dunes](https://github.com/Indiana-Hacks/dunes)
 
 ## Some other things
 
-- 🔭 I’m currently working on [Hyper by Alamo City Hacks](https://alamocityhacks.com)
-- 🌱 I’m currently learning time-management right now.
-- 👯 I'm not currently looking to collaborate, but if you'd like to, hmu!
+- 🔭 I’m currently working on [Hyper by Alamo City Hacks](https://alamocityhacks.com) and [Hack Club Vote](https://vote-sarthakmohanty.vercel.app)
+- 🌱 I’m currently learning how to create interactivity through WebGL and Framer Motion right now.
+- 👯 I'm not currently looking to collaborate but if you have an awesome idea, let me know, I'd love to help make it happen!
 - 😄 Pronouns: He, Him, His
 - ⚡ Fun fact: I have absolutely no clue what I'm doing, just faking it until I make it. Pretty interested in that doctor stuff.
 
