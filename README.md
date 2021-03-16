@@ -16,7 +16,7 @@ Currently, he is organizing tech events all around the South Texas area. He work
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sarthaktexas&count_private=true&show_icons=true)
 ## Events
 - [Hyper, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
-- [Hack Day, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
+- [HackCamp, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
 - [Youth Code Jam](https://youthcodejam.org) Student Volunteer
 - [Carbon, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
 - [AngelHacks 2.0](https://angelhacks.org) Co-organizer
