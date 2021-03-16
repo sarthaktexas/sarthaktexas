@@ -4,6 +4,7 @@
   color: E34F26
   projects:
     - https://github.com/sarthaktexas/ScienceBowlScoreTimer
+    - https://github.com/sarthaktexas/waves
 - name: JavaScript
   logo: javascript
   url: https://github.com/sarthaktexas?tab=repositories&q=&type=&language=javascript
@@ -37,6 +38,7 @@
     - https://github.com/sarthaktexas/claire-website
     - https://github.com/sarthaktexas/swirlbrand
     - https://github.com/sarthaktexas/hackathon-site-template
+    - https://github.com/sarthaktexas/perfect
 - name: Swift
   logo: swift
   url: https://github.com/sarthaktexas?tab=repositories&q=&type=&language=swift
