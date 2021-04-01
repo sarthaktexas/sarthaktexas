@@ -15,6 +15,7 @@ Currently, he is organizing tech events all around the South Texas area. He work
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sarthaktexas&count_private=true&show_icons=true)
 ## Events
+> Catch me mentoring or organizing these events!
 - [Hyper, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
 - [HackCamp, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
 - [Youth Code Jam](https://youthcodejam.org) Student Volunteer
@@ -32,6 +33,7 @@ Currently, he is organizing tech events all around the South Texas area. He work
 - [AngelHacks/site-2020](https://github.com/HackClub/Rudolph)
 - [AlamoCityHacks/hyper](https://github.com/AlamoCityHacks/hyper)
 - [Indiana-Hacks/dunes](https://github.com/Indiana-Hacks/dunes)
+- [ThinkFiveable/open](https://github.com/ThinkFiveable/open)
 
 ## Some other things
 
