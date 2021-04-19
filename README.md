@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=sarthaktexas&color=blueviolet)
 
-Sarthak is an ambitious high school senior from the rural Texas Hill Country. He's a full stack developer and designer focusing on interactive web experiences and natural design. He attends Brandeis High School and loves hanging with his friends. He's passionate about education equality among other things. Sarthak also likes to go adventuring in the woods on a daily basis, often getting him very sick the next day because he has a severe mold and mountain cedar allergy. Sarthak also loves biking around his area. *(want to compete with him? send him and email and add him on Watch Activity!)*
+Sarthak is an ambitious high school senior from the rural Texas Hill Country. He's a full stack developer and designer focusing on interactive web experiences and natural design. He attends Brandeis High School and loves hanging with his friends. He's passionate about education equality among other things. Sarthak also likes to go adventuring in the woods on a daily basis, often getting him very sick the next day because he has a severe mold and mountain cedar allergy. Sarthak also loves biking around his area. *(want to compete with him? send him an email and add him on Watch Activity!)*
 
 Currently, he is organizing tech events all around the South Texas area. He works at [Mintere](https://mintere.com) right now as a web developer. He's also hosting A Trivia Show on [Clubhouse](https://joinclubhouse.com) right now.
 
