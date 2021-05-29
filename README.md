@@ -18,7 +18,6 @@ Currently, he is organizing tech events all around the South Texas area. He work
 > Catch me mentoring or organizing these events!
 - [Hyper, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
 - [Youth Code Jam](https://youthcodejam.org) Student Volunteer
-- [Carbon, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
 - [AngelHacks 2.0](https://angelhacks.org) Co-organizer
 - [Dunes, by HackIndiana](https://hackindiana.io) Lead Organizer
 
