@@ -5,19 +5,18 @@
 
 Sarthak is an ambitious high school senior from the rural Texas Hill Country. He's a full stack developer and designer focusing on interactive web experiences and natural design. He attends Brandeis High School and loves hanging with his friends. He's passionate about education equality among other things. Sarthak also likes to go adventuring in the woods on a daily basis, often getting him very sick the next day because he has a severe mold and mountain cedar allergy. Sarthak also loves biking around his area. *(want to compete with him? send him an email and add him on Watch Activity!)*
 
-Currently, he is organizing tech events all around the South Texas area. He works at [Mintere](https://mintere.com) right now as a web developer. He's also hosting A Trivia Show on [Clubhouse](https://joinclubhouse.com) right now.
+Currently, he is organizing tech events all around the South Texas area. He works at [Mintere](https://mintere.com) right now as a web developer.
 
 🌎 https://srtk.me
 
 📨 [hello@sarthakmohanty.me](mailto:hello@sarthakmohanty.me)
 
-💼 https://linkedin.com/in/sarthaktexas
+💼 https://linkedin.com/in/srtk
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=sarthaktexas&count_private=true&show_icons=true)
 ## Events
 > Catch me mentoring or organizing these events!
 - [Hyper, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
-- [HackCamp, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
 - [Youth Code Jam](https://youthcodejam.org) Student Volunteer
 - [Carbon, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
 - [AngelHacks 2.0](https://angelhacks.org) Co-organizer
