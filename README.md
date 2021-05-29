@@ -19,18 +19,12 @@ Currently, he is organizing tech events all around the South Texas area. He work
 - [Hyper, by Alamo City Hacks](https://alamocityhacks.com) Lead Organizer
 - [Youth Code Jam](https://youthcodejam.org) Student Volunteer
 - [AngelHacks 2.0](https://angelhacks.org) Co-organizer
-- [Dunes, by HackIndiana](https://hackindiana.io) Lead Organizer
 
 ## Open Source Contributions
-- [Standard-Structure/Standard-Structure](https://github.com/Standard-Structure/Standard-Structure)
-- [renesansz/discord-greeter-bot](https://github.com/renesansz/discord-greeter-bot)
-- [UndercoverGoose/quizlet](https://github.com/UndercoverGoose/quizlet)
-- [npm/npm-expansions](https://github.com/npm/npm-expansions)
 - [HackClub/Rudolph](https://github.com/HackClub/Rudolph)
 - [HackClub/Vote](https://github.com/HackClub/Vote)
-- [AngelHacks/site-2020](https://github.com/HackClub/Rudolph)
+- [AngelHacks/site-2020](https://github.com/AngelHacks/site-2020)
 - [AlamoCityHacks/hyper](https://github.com/AlamoCityHacks/hyper)
-- [Indiana-Hacks/dunes](https://github.com/Indiana-Hacks/dunes)
 - [ThinkFiveable/open](https://github.com/ThinkFiveable/open)
 
 ## Some other things
