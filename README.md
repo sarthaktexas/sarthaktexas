@@ -1,5 +1,3 @@
-![](./gh-header-image.png)
-
 ![](https://komarev.com/ghpvc/?username=sarthaktexas&color=blueviolet)
 
 🌎 https://srtk.me
