@@ -2,7 +2,7 @@ hey! i'm sarthak. i've been tinkering with things ever since i was a child. you 
 
 ![](https://komarev.com/ghpvc/?username=sarthaktexas&color=blueviolet)
 
-🌎 https://srtk.me
+🌎 https://sarthakmohanty.me
 
 📨 [hello@sarthakmohanty.me](mailto:hello@sarthakmohanty.me)
 
