@@ -5,5 +5,3 @@ hey! i'm sarthak. i've been tinkering with things ever since i was a child. you 
 🌎 https://sarthakmohanty.me
 
 📨 [hello@sarthakmohanty.me](mailto:hello@sarthakmohanty.me)
-
-💼 https://read.cv/srtk
